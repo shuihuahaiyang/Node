@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://shuihuahaiyang.github.io/note/note/sitemap.xml
+Sitemap: https://shuihuahaiyang.github.io/Node/Node/sitemap.xml
