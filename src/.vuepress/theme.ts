@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://shuihuahaiyang.github.io/Note/",
+  hostname: "https://shuihuahaiyang.github.io/Node/",
 
   author: {
     name: "shuihuahaiyang",
